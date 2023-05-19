@@ -1,5 +1,5 @@
 # SDDecomp
-A WIP reverse engineering of the Leapster2's SDMenu.
+A WIP reverse engineering of the Leapster2's SDMenu (1.0.0.2).
 
 This requires AN ANCIENT version of arc-elf32-gcc to compile, you can get it here: https://www.maintech.de/en/support/toolchains/
 
